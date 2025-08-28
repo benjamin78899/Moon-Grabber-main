@@ -1,7 +1,5 @@
 # Moon-Grabber-main
 
-# Mon Projet
-
 ## Features
 - Grabs Roblox cookies from Roblox Studio
 - Grabs Minecraft sessions
